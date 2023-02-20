@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 
 resource "azurerm_local_network_gateway" "learn_vpn_lngw" {
   name                = "learn_vpn_lngw"
